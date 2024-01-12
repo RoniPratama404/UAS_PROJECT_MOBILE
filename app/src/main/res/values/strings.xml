@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Roni News</string>
+    <string name="book_name">Nama Buku</string>
+    <string name="Description">Descripsi</string>
+    
+    <string-array name="data_name">
+    </string-array>
+
+
+    <string-array name="data_description">
+ </string-array>
+
+
+    <string-array name="data_photo">
+  </string-array>
+</resources>
